@@ -1,0 +1,1361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"function",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"hidden",
+				"hidden_active"
+			],
+			[
+				"hidd",
+				"hidden_tabs"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"preventDe",
+				"preventDefault()	Event"
+			],
+			[
+				"igual",
+				"igualarAlturaMinima"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"tiny",
+				"tinyPNGTask"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"input",
+				"input:all	HTML - Input:all"
+			],
+			[
+				"a",
+				"acoment	acomment"
+			],
+			[
+				"inp",
+				"inp:text	HTML - Input:text"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"child",
+				"children〔function〕"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"tar_",
+				"tar_high"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"togg",
+				"toggleClass〔function〕"
+			],
+			[
+				"pos",
+				"position	Style CSS"
+			],
+			[
+				"touchstart",
+				"touchstart	Event"
+			],
+			[
+				"moused",
+				"mousedown	.mousedown()"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"li",
+				"lin	link()"
+			],
+			[
+				"copyM",
+				"copyMult2Task"
+			],
+			[
+				"minif",
+				"minifyCss"
+			],
+			[
+				"outer",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"str",
+				"strong	Tag"
+			],
+			[
+				"preventD",
+				"preventDefault()	Event"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"btn-",
+				"btn-no-width"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"cerrarPr",
+				"cerrarPromos"
+			],
+			[
+				"error",
+				"errorThrown"
+			],
+			[
+				"tarifaBloc",
+				"tarifaBlockBig"
+			],
+			[
+				"tari",
+				"tarifaSectionBig"
+			],
+			[
+				"tar",
+				"tarfifaBlock"
+			],
+			[
+				"mainLe",
+				"mainLeftHeader"
+			],
+			[
+				"dark",
+				"dark-gray"
+			],
+			[
+				"update",
+				"updateModalPlaceHolder"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"bigMobile",
+				"bigMobileSection"
+			],
+			[
+				"lig",
+				"light-blue"
+			],
+			[
+				"offers_",
+				"offers_mobiles"
+			],
+			[
+				"dar",
+				"dark-gray"
+			],
+			[
+				"transpar",
+				"transparent"
+			],
+			[
+				"temp",
+				"templateData"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"opa",
+				"opacity	opacity()"
+			],
+			[
+				"bt",
+				"btn-success"
+			],
+			[
+				"mobile",
+				"mobileRight"
+			],
+			[
+				"light",
+				"light-gray"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"modalEx",
+				"modalExperienciaText"
+			],
+			[
+				"background-c",
+				"background-color: 〔property〕"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"jso",
+				"json_encode〔function〕"
+			],
+			[
+				"p_file_t",
+				"$p_file_types〔variable〕"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"proje",
+				"project_description"
+			],
+			[
+				"main",
+				"main_editor"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"arra",
+				"array〔keyword〕"
+			],
+			[
+				"project_de",
+				"project_detail"
+			],
+			[
+				"project_deta",
+				"project_detail_label"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"cap",
+				"caption_es"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"tri",
+				"trigger	.trigger()"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"proj",
+				"project_small"
+			],
+			[
+				"projec",
+				"project_classes"
+			],
+			[
+				"centrum",
+				"centrum-cerny-most-west"
+			],
+			[
+				"ar",
+				"architect"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"po",
+				"po-la"
+			],
+			[
+				"id",
+				"id_categoria"
+			],
+			[
+				"rel",
+				"rel_menus_categorias"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"media_",
+				"$media_path〔variable〕"
+			],
+			[
+				"media",
+				"$media_path〔variable〕"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"row_",
+				"row_videos"
+			],
+			[
+				"allowed_",
+				"allowed_img_ext"
+			],
+			[
+				"thr",
+				"thrownError〔argument〕"
+			],
+			[
+				"chil",
+				"children〔function〕"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"mysql_row",
+				"mysql_num_rows〔function〕"
+			],
+			[
+				"project",
+				"project_id"
+			],
+			[
+				"menu",
+				"menu_categories"
+			],
+			[
+				"action",
+				"$action〔variable〕"
+			],
+			[
+				"pro",
+				"project_transition〔variable〕"
+			],
+			[
+				"c",
+				"project_cur_translate〔variable〕"
+			],
+			[
+				"hide",
+				"hideProgress"
+			],
+			[
+				"cate",
+				"category_click"
+			],
+			[
+				"scr",
+				"scrollTop〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "w",
+		"selected_items":
+		[
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"load",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"compa",
+				"Compare with..."
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: bco",
+				"Snippet: bcoment"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"SPAC",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"c",
+				"Compare with..."
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"less",
+				"Set Syntax: Less"
+			],
+			[
+				"json",
+				"Set Syntax: Bower JSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"comp",
+				"Compare with..."
+			],
+			[
+				"com",
+				"Compare with..."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade (Python)"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"SASS",
+				"Set Syntax: Sass"
+			],
+			[
+				"ENA",
+				"Package Control: Enable Package"
+			],
+			[
+				"DISA",
+				"Package Control: Disable Package"
+			],
+			[
+				"SCSS",
+				"Set Syntax: SCSS"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"reload",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"encod",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"compra",
+				"Compare with..."
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"syntax C",
+				"Set Syntax: C"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"jquery s",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"syn jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"jqu s",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"linte",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"key",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"over",
+				"FindKeyConflicts: Overlap Conflicts"
+			],
+			[
+				"keyc",
+				"FindKeyConflicts: Multiple Package Conflicts"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"codein",
+				"SublimeCodeIntel: Dump Import Directories"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"js lin",
+				"JSLint"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"syntax jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"csslin",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"asd",
+			"reload",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mencey/Sites/Accenture",
+		"/Users/mencey/Sites/Accenture/bbva",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app/css",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app/jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app/jade/lib",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app/js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app/sass",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app/sass/components",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app/sass/lib"
+	],
+	"file_history":
+	[
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app/sass/lib/_templates.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app/sass/lib/_fonts.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-plantillas/app/jade/landing-v1.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-old/app/01distributiva.html",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/_forms.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/global.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/_variables.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-old/Datos_proyecto.txt",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/_popovers.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/dist/css/global.css",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/_menus.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/_mixins.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/_sprites.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/node_modules/gulp-tinypng-compress/index.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/_max768.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/_min769.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/gulpfile.js",
+		"/Users/mencey/Sites/Accenture/bbva/maquetas-zona-publica/bbvaes/gulpfile.js",
+		"/Users/mencey/Sites/Accenture/bbva/maquetas-zona-publica/bbvaes/src/js/hometd.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/libraries.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/components/hipoteca-simulator.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/01hipoteca-simulator.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/_bootstrap_simulator.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/components/generic-validate.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/components/interaction/hipoteca-simulator.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/libraries.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/site.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/.tinypng-sigs",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/global-extension.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/buscador-test.html",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/smartbanner-init.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/package.json",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/components/mixins.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/dist/js/components/hipoteca-simulator.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/01detalle.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/includes/head.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/components/information/logo.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/01subhome.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/includes/scripts.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/dist/js/site.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/dist/js/lightBox.min.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/autocompletar.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/components/interaction/forms/hipoteca-form.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/01hipoteca-form.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/01home.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/components/information/banner-img.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/components/_banners.scss",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js/html-components/tablist.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-1/app/js/libraries.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/dist/js/BBVA_control_cookies.min.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/dist/js/BBVA_control_cookies_plugin.min.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/BBVA_control_cookies_plugin.min.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/BBVA_control_cookies.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-old/app/js/BBVA_control_cookies.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-old/app/js/BBVA_control_cookies_plugin_min.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-1/app/sass/global.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/dist/css/global.min.css",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/bbva-save-as/bbvacontinental-personas.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/bbva-save-as/bbva-banca-personal.jade",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/plans-management.html",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/stylesheets/app.css",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js/graphycs/data/admin.generalInformation.json",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js/graphycs/data/admin.generalInformation copia.json",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js/graphycs/config.js",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/stylesheets/app2.css",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-old/app/js/site.js",
+		"/Users/mencey/Desktop/Men/MenceyMelgar 2.docx",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-1/app/sass/includes/_max768.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/bbva-save-as/bbva-personas-tarjetas.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/guia/clases-logotipo.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-1/app/js/site.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/lightBox.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/components/_filtro-tarjeta.scss",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js/validations/validations.admin.netAssetForm.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/components/_thumbnails.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/ie8.scss",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js/main.js",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js/calendars.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/variables-texto.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/validaFormCrm_medias.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/validaFormCrm.js",
+		"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.es.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/.gitignore",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/less/inc/commons.less",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/less/inc/buttons.less",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/less/inc/cabeceras.less",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/jade/mix/planes.jade",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/jade/index.jade",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/jade/mix/fondos.jade",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/jade/mix/enlaces.jade",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/js/main.js",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/less/main.less",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/dist/am/tlwgbineses/css/main.css",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/bbva.api.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/datosParametros.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/formvalidation.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/head.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/jquery-idletimer.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/jquery.formatCurrency-1.3.0.min.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/jquery.formatCurrency.all.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/jquery.maskedinput-1.2.2.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/jquery.string.1.0.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/jquery.ui.datepicker.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/jquery.ui.dialog.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/jquery.ui.selectmenu.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/mapaCrm.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/require.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/resizeForm.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/validaForm.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/01campanas-moviles.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/01redes.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/cal/jquery.formparams.min.js",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/less/conf/vars.less",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/src/jade/mix/menus.jade",
+		"/Users/mencey/Sites/Accenture/bbva/fondos/dist/am/tlwgbineses/css/commons.css",
+		"/Users/mencey/Downloads/main.css",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/bbva-save-as/bbva-cuentas.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/_utilities.scss",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/bbva-save-as/bbva-cuentas-empresariales.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/bbva-save-as/bbva-empresas.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/bbva-save-as/bbva-premium.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/bbva-save-as/bbva-tarjeta-detalle.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/includes/scripts-bancomer.jade",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/handlebars-v1.3.0.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/jquery.listnav.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/jquery.smartbanner.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/marca-blanca.js",
+		"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js/site-extension.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-old/app/styles/includes",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-old/app/templates",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/css",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-1/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-1/app/sass/includes",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade/bbva-save-as",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-1/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes",
+			"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js",
+			"/Users/mencey/Sites/Accenture/bbva/pensiones/assets",
+			"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js",
+			"/Users/mencey/Sites/Accenture/bbva/pensiones/assets",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app",
+			"/Users/mencey/Sites/Accenture/bbva/fondos/dist/am/tlwgbineses/css",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/bbva.es/src/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes/components",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass/includes",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/dist",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/maqueta/dist",
+			"/Users/mencey/Sites/Accenture/bbva/pensiones/assets/js",
+			"/Users/mencey/Sites/Accenture/bbva/pensiones/partials",
+			"/Users/mencey/Sites/Accenture/bbva/bbva.es/node_modules",
+			"/Users/mencey/Sites/Accenture/bbva/bbva.es/src",
+			"/Users/mencey/Sites/Accenture/bbva/fondos/src/js",
+			"/Users/mencey/Sites/Accenture/bbva/entregable",
+			"/Users/mencey/Sites/Accenture/bbva/entregable/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/dist",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/bbva-mobi/src",
+			"/Users/mencey/Sites/Accenture/bbva/bbva.es/src/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/bbva.es/src/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/dist",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/bbva.es/src/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/bbva.es/src/styles",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/bbva.es/src/styles",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/css",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/css",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/dist/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/js",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/css",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/jade",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo-old",
+			"/Users/mencey/Sites/Accenture/bbva/modelo-corporativo/app/sass",
+			"/Users/mencey/Sites/Accenture/bbva/maquetas/src/styles",
+			"/Users/mencey/Sites/Accenture/bbva/maquetas/src",
+			"/Users/mencey/Sites/Accenture/bbva/maquetas/src/styles",
+			"/Users/mencey/Sites/Accenture/bbva/maquetas/src",
+			"/Users/mencey/Sites/Accenture/bbva/maquetas",
+			"/Users/mencey/Sites/Accenture/bbva/maquetas/src/styles",
+			"/Users/mencey/Sites/Accenture/bbva/fondos/src/css",
+			"/Users/mencey/Sites/Accenture/bbva/fondos/src",
+			"/Users/mencey/Sites/Accenture/bbva/fondos/src/js",
+			"/Users/mencey/Sites/Accenture/bbva/fondos/src/jade",
+			"/Users/mencey/Documents/Accenture/bbva/pensiones",
+			"/Users/mencey/Documents/Accenture/bbva/pensiones/assets/js",
+			"/Users/mencey/Documents/Accenture/bbva/landings/src",
+			"/Users/mencey/Documents/Accenture/bbva/maquetas",
+			"/Users/mencey/Documents/Accenture/bbva/maquetas/jade",
+			"/Users/mencey/Documents/Accenture/bbva/bbva-mobi",
+			"/Users/mencey/Documents/Accenture/lp-fjord-1-v5/app/css/vendor",
+			"/Users/mencey/Documents/Accenture/lp-fjord-1-v5/app/views/modules",
+			"/Users/mencey/Documents/Accenture/lp-fjord-1-v5/app/views",
+			"/Users/mencey/Documents/Accenture",
+			"/Users/mencey/Documents/Accenture/mencey",
+			"/Users/mencey/Documents/Accenture",
+			"/Users/mencey/Documents/Accenture/mencey/01_Landing Portabilidad",
+			"/Users/mencey/Documents/Accenture/lp-fjord-1-v4/app",
+			"/Users/mencey/Documents/Accenture/lp-fjord-1-v4/app/css",
+			"/Users/mencey/Documents/Accenture/lp-fjord-1-v4/app/sass",
+			"/Users/mencey/Documents/Accenture/lp-fjord-1-v4/app/views",
+			"/Users/mencey/Documents/Accenture/lps-fjord-old/14_09_2015_Aqua/ARCHIVOS PLAN CEQUIPOS",
+			"/Users/mencey/Documents/Accenture/lp-fjord-1-v3/app/views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"icon",
+			"sizz",
+			".contacto-gestor",
+			"sea",
+			"search",
+			"lightbox",
+			"clearfix",
+			"modernizr",
+			"modern",
+			"main-menu",
+			"cursor",
+			"tinypngcompress",
+			"hidden-phone",
+			"nombre",
+			"ui-bg_flat_100_ffffff_40x100.png",
+			"link-arrow-right.png",
+			"widget-pag_R2.png",
+			"moderniz",
+			"filter-column",
+			"or 0.4s",
+			"adow 0.4s;",
+			"olor 0.4s, background",
+			"ion: background 0.4s, backgr",
+			";",
+			"background",
+			"rgba(82,168,236,.6)",
+			"background",
+			"opacity",
+			"transi",
+			"0",
+			"\n            ",
+			"0 0 6px #f8b9b7",
+			"f8b9b7",
+			" 0 0 6px #f8b9b7",
+			"inp.l",
+			"log",
+			"min",
+			"===",
+			"==",
+			"lbl",
+			"\\\\",
+			"listenerloadLBEnContainer",
+			"\n          ,",
+			"listenerloadLBEnContainer",
+			"tooltip",
+			"bootstrap",
+			"logo-desktop",
+			"logo-cabecera",
+			"body-header",
+			".color-bar",
+			"color-bar",
+			"logo",
+			"smartbanner",
+			"print",
+			"body-header",
+			"script",
+			"xs",
+			"\n        ",
+			"left",
+			"25px",
+			".hf-button",
+			"onResize",
+			"fn",
+			"col.col-12\n                                a.hf-submit.",
+			"Phone",
+			"hfClientPhone",
+			"12",
+			"Su ",
+			"left",
+			"Tu",
+			"hfClient",
+			"term",
+			"6",
+			"mortValue",
+			"homeValue",
+			"lorem",
+			"blueDarkES",
+			".form-control",
+			"hr",
+			"concat",
+			"\" ",
+			"color",
+			"5px",
+			"highlight-main",
+			"bbva-page-header",
+			"gray-background",
+			"tiny",
+			"ie8",
+			"#00559D",
+			"#86c82d",
+			"10",
+			".col",
+			"\n  ",
+			"box-siz",
+			"box-s",
+			", ng-model=\"formData.homeValue\",",
+			"\" ",
+			"form",
+			"home",
+			"bbvacontinental-personas",
+			"bbva-tarjeta",
+			"bbva-premium",
+			"premium",
+			"bbva-empresas",
+			"bbva-cuentas",
+			"bbva-banca",
+			"bbva-banca-personal",
+			"logo-des",
+			".color-bar",
+			"color-bar",
+			"-",
+			"logo-desktop",
+			"css/img/logoperu.png",
+			"href='#",
+			"BBVA Continental",
+			"logo-desktop",
+			"alt=\"BBVA Continental\"",
+			"$(document).on(eventoClick",
+			"$('.more-tabs').on('click'",
+			"mouseo",
+			"$('.more-tabs')",
+			"head",
+			":",
+			"{",
+			"\n        ",
+			",",
+			"privacyS",
+			"cc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "accenture.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$char"
+			]
+		],
+		"width": 705.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.meta",
+				"*.csproj",
+				"*.unityproj",
+				"*.sln"
+			],
+			"path": "/Users/mencey/Documents/GitHub"
+		},
+		{
+			"path": "/Users/mencey/Desktop/examenFinal_PMDM"
+		},
+		{
+			"path": "/Volumes/Transcend/ChristianBueno/Christian/T03_Examen_trim2b_alumnos"
+		}
+	]
+}

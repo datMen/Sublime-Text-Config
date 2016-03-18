@@ -1,0 +1,10 @@
+bz2/
+backrefs/
+SFTP/
+1self.sublime-settings
+User/Package Control.merged-ca-bundle
+User/Package Control.system-ca-bundle
+User/Package Control.user-ca-bundle
+User/SFTP.errors.log
+User/SFTP.sublime-settings
+sftp_servers

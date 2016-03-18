@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="${3:es}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <meta name="author" content="Mencey Melgar" />
+    	<meta name="description" content="$1" />
+        <title>${2:Untitled}</title>
+        <link href="css/main.css" type="text/css" rel="stylesheet" />
+    </head>
+    <body>
+    	<header></header>
+        <main>$4</main>
+        <footer></footer>
+        <script src="js/main.js" type="text/javascript"></script>
+    </body>
+</html>]]></content>
+    <tabTrigger>html</tabTrigger>
+    <description>HTML - HTML foundation</description>
+    <scope>text.html</scope>
+</snippet>

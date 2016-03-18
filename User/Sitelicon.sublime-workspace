@@ -1,0 +1,1176 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cesta_c",
+				"$cesta_child〔variable〕"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"rem",
+				"removeClass〔function〕"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"max",
+				"max_height"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"migrated",
+				"migrated_tallas"
+			],
+			[
+				"unidades_",
+				"unidades_count"
+			],
+			[
+				"tot",
+				"total_facturas"
+			],
+			[
+				"alba",
+				"$albaran_payment〔variable〕"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"ser",
+				"serialized"
+			],
+			[
+				"xls",
+				"$xls_export_body〔variable〕"
+			],
+			[
+				"fe",
+				"fecha_alta"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"getRe",
+				"getReviews"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"magento_e",
+				"magento_etiquetas"
+			],
+			[
+				"cout",
+				"country_code"
+			],
+			[
+				"country",
+				"country_code"
+			],
+			[
+				"albara",
+				"albaran_cesta"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mont",
+				"months"
+			],
+			[
+				"menu",
+				"menu_id"
+			],
+			[
+				"validate",
+				"validateCustomerPassword"
+			],
+			[
+				"order",
+				"$order_column〔variable〕"
+			],
+			[
+				"base64_",
+				"base64_encode"
+			],
+			[
+				"instructio",
+				"$instruction_names〔variable〕"
+			],
+			[
+				"migrateEn",
+				"migrateGastosEnvio"
+			],
+			[
+				"regis",
+				"registrados_direcciones"
+			],
+			[
+				"decr",
+				"decryptCustomerPassword"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"api",
+				"$api_keys〔variable〕"
+			],
+			[
+				"zip",
+				"zip_code"
+			],
+			[
+				"zi",
+				"zip_code"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"printCom",
+				"printCompany"
+			],
+			[
+				"select",
+				"selection2"
+			],
+			[
+				"cate",
+				"$category〔variable〕"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"parse",
+				"parseString〔function〕"
+			],
+			[
+				"migrateProduct",
+				"migrateProductColegiosRelation"
+			],
+			[
+				"migrateSimple",
+				"migrateSimpleProductsRelations"
+			],
+			[
+				"migrateParent",
+				"migrateConfigurableParentGallery"
+			],
+			[
+				"product_id",
+				"$product_id_no_color〔variable〕"
+			],
+			[
+				"parseUrl",
+				"parseImgUrl〔function〕"
+			],
+			[
+				"color",
+				"$color_img〔variable〕"
+			],
+			[
+				"getChi",
+				"getChildProductImage($product"
+			],
+			[
+				"getImag",
+				"getImageUrl"
+			],
+			[
+				"configura",
+				"configurables"
+			],
+			[
+				"getConfig",
+				"getConfigurableParentProducts"
+			],
+			[
+				"catalog",
+				"catalog_product_entity_varchar"
+			],
+			[
+				"attr",
+				"attribute_code"
+			],
+			[
+				"ent",
+				"catalog_product_entity_text"
+			],
+			[
+				"id_pro",
+				"id_producto_a"
+			],
+			[
+				"row_pr",
+				"$row_productos_col〔variable〕"
+			],
+			[
+				"row_produc",
+				"$row_productos_tipo〔variable〕"
+			],
+			[
+				"product",
+				"productos_padre"
+			],
+			[
+				"nom",
+				"nombre_color"
+			],
+			[
+				"updateTa",
+				"updateTalla"
+			],
+			[
+				"productos_",
+				"productos_imagenes"
+			],
+			[
+				"update",
+				"updateRefStock"
+			],
+			[
+				"id_",
+				"id_producto"
+			],
+			[
+				"jsoo",
+				"json_encode"
+			],
+			[
+				"produc",
+				"producto_id"
+			],
+			[
+				"id_col",
+				"id_color"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"cole",
+				"colegios_nombres"
+			],
+			[
+				"ppa",
+				"ppaee"
+			],
+			[
+				"last_",
+				"$last_update_date〔variable〕"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"getErr",
+				"getErrorCode〔function〕"
+			],
+			[
+				"fl",
+				"$flk〔variable〕"
+			],
+			[
+				"target",
+				"target=〔attribute〕"
+			],
+			[
+				"strto",
+				"strtolower〔function〕"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"alert",
+				"alert(${0:message})	Window"
+			],
+			[
+				"url",
+				"$url_semantica〔variable〕"
+			],
+			[
+				"header",
+				"header('Location"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"media_",
+				"$media_path〔variable〕"
+			],
+			[
+				"media",
+				"$media_path〔variable〕"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"row_",
+				"row_videos"
+			],
+			[
+				"allowed_",
+				"allowed_img_ext"
+			],
+			[
+				"thr",
+				"thrownError〔argument〕"
+			],
+			[
+				"chil",
+				"children〔function〕"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"mysql_row",
+				"mysql_num_rows〔function〕"
+			],
+			[
+				"project",
+				"project_id"
+			],
+			[
+				"action",
+				"$action〔variable〕"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pro",
+				"project_transition〔variable〕"
+			],
+			[
+				"c",
+				"project_cur_translate〔variable〕"
+			],
+			[
+				"hide",
+				"hideProgress"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"scr",
+				"scrollTop〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "w",
+		"selected_items":
+		[
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"dow",
+				"SFTP: Download File"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"br",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"do",
+				"SFTP: Download File"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"d",
+				"SFTP: Download File"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sftp",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax",
+				"Set Syntax: C"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"docb",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"docbl",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"identa",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"avas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"innde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"syntax C",
+				"Set Syntax: C"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jquery s",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"syn jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"jqu s",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"linte",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"key",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"over",
+				"FindKeyConflicts: Overlap Conflicts"
+			],
+			[
+				"keyc",
+				"FindKeyConflicts: Multiple Package Conflicts"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"codein",
+				"SublimeCodeIntel: Dump Import Directories"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"js lin",
+				"JSLint"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"json",
+				"Set Syntax: Bower JSON"
+			],
+			[
+				"syntax jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"csslin",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"asd",
+			"reload",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/My Passport/Sitelicon"
+	],
+	"file_history":
+	[
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/products/lib/queries.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/products/lib/functions.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/sales/lib/queries.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/sales/lib/functions.php",
+		"/Users/mencey/Downloads/viva2014_web (2).sql",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/facturas.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/customers/lib/queries.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/sales/index.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/products/index.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/to_do_list.txt",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/connections/tests.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/customers/lib/functions.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/customers/index.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/js/ficha.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/js/carrito.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/carrito_tr.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/listado_busqueda.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/listado.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/ficha.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/funciones.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/config.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/carrito_row.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/row_productos.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/ajax/add_carrito.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/ajax/add_carrito_configurable.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/js/zoom-controller.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/ajax/compradirecta.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/css/bootstrap.min.css",
+		"/var/folders/sv/m5lhl6pj2tx1vfdt16z7mw3c0000gn/T/sublime-sftp-browse-1434708906/mapped/domains/vivaelcole.biz/public_html/listado.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/carrito_fila.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/carrito.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/ajax/edit_carrito.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/proceso_compra_datos.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/proceso_compra.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/.htaccess",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/busqueda.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/listado_menu.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/header.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/categories/index.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento/categories/lib/functions.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/compra.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/albaranes.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/albaran.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/pdf/factura_html.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/js/proceso_compra_datos.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/factura.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/devoluciones.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/modificarpass.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/menus.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/tallas.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/tallas.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ajax/tallas.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/menus.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/ajax/ficha.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/xls/xls_generator.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/xls/factura_xls_model.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/old_web/app/design/adminhtml/default/default/template/sales/order/creditmemo/create/form.phtml",
+		"/Volumes/My Passport/Sitelicon/theworldfolio/public_html/.htaccess",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/connections/magento.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/compras.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/compras.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/.htaccess",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ajax/agrupacion.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ajax/compra.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ajax/ajax_json_producto_unico.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ajax/forma_pago.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ajax/codigo.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/compra.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/usuario.js",
+		"/Volumes/My Passport/Sitelicon/petlamp/admin/js/compra.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ajax/producto.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/agrupacion.php",
+		"/Volumes/My Passport/Sitelicon/petlamp/admin/compra.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/codigo.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ajax/ajax_json_producto.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/ajax/get_carrito_product.php",
+		"/Volumes/My Passport/Sitelicon/myhostpitality/mh-adm/usuarios.php",
+		"/Volumes/My Passport/Sitelicon/myhostpitality/mh-adm/home.php",
+		"/Volumes/My Passport/Sitelicon/myhostpitality/mh-adm/personas.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/usuarios.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/facturas.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/usuarios.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/albaranes.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/productos.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/productos_hijos.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/albaran.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/bootstrap-datepicker.min.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/usuario.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/usuario_direccion.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/inc/funciones.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/funciones_urls.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/usuarios_direcciones.php",
+		"/Volumes/My Passport/Sitelicon/myhostpitality/mh-adm/personas_exportar.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/pdf/pdf_generator.php",
+		"/Volumes/My Passport/Sitelicon/afuegolento/public_html/external_news/checkexternalnews.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/xls/php-export-data-class.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/.htaccess",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ajax/factura.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js/factura.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ajax/albaran.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/inc/pdf/albaran_html.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/contacto_gracias.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/js/bootstrap-select.min.js",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/modelo_envios_devoluciones.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/agrupaciones_usuarios.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/colegio.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/colegios.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/menu.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/sitio.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/sitios.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/temas.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/etiquetas.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/etiqueta.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/ofertas.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/oferta.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/codigos_promocionales.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/estatica.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/estaticas.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/tipos_iva.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/formas_pago.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/agrupacion_usuario.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/opiniones.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/emails.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/email.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/productos.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/listado_productos_hijos.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/productos_hijos.php",
+		"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/categorias.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Volumes/My Passport/Sitelicon/vivaelcole/public_html",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/com/db_migration/using_magento",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/public_html",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/old_web/app",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin/js",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/js",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/public_html",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/old_web/app",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/old_web",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/public_html",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/public_html/vecadmin",
+			"/Volumes/My Passport/Sitelicon/petlamp/admin",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/old_web/app",
+			"/Volumes/My Passport/Sitelicon/afuegolento/public_html",
+			"/Volumes/My Passport/Sitelicon/landscare",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/old_web/app",
+			"/Volumes/My Passport/Sitelicon/vivaelcole/old_web/admin_tienda",
+			"/Users/mencey/Dropbox/Sitelicon/vivaelcole/old_web/app",
+			"/Users/mencey/Dropbox/Sitelicon/vivaelcole/old_web",
+			"/Users/mencey/Dropbox/Sitelicon/vivaelcole/old_web/app",
+			"/Users/mencey/Dropbox/Sitelicon/vivaelcole/old_web",
+			"/Users/mencey/Dropbox/Sitelicon/vivaelcole/old_web/js",
+			"/Users/mencey/Dropbox/Sitelicon/vivaelcole/old_web",
+			"/Users/mencey/Dropbox/Sitelicon/vivaelcole/public_html",
+			"/Users/mencey/Dropbox/Sitelicon/vivaelcole/public_html/js",
+			"/Users/mencey/Dropbox/Sitelicon/afuegolento/public_html",
+			"/Users/mencey/Dropbox/Sitelicon/afuegolento/web",
+			"/Users/mencey/Dropbox/Sitelicon/riazabpro/riazabpro_web/nuevo",
+			"/Users/mencey/Dropbox/Sitelicon/Android/BluetoothSerial-master/examples/Counter",
+			"/Users/mencey/Dropbox/Sitelicon/riazabpro/riazabpro_web/nuevo",
+			"/Users/mencey/Dropbox/Sitelicon/riazabpro/riazabpro_web",
+			"/Users/mencey/Dropbox/Sitelicon/Android/tens2/www",
+			"/Users/mencey/Dropbox/Sitelicon/riazabpro/riazabpro_web/nuevo",
+			"/Users/mencey/Dropbox/Sitelicon/landscare/landscare_admin",
+			"/Users/mencey/Dropbox/Sitelicon/landscare",
+			"/Users/mencey/Dropbox/Sitelicon/gastroempleo",
+			"/Users/mencey/Dropbox/Sitelicon/gastroempleo/web_gastroempleo",
+			"/Users/mencey/Dropbox/Sitelicon/opinion_willis/labs/willis-opinion",
+			"/Users/mencey/Dropbox/Sitelicon/opinion_willis/labs/willis-opinion/resultados",
+			"/Users/mencey/Dropbox/Sitelicon/opinion_willis/labs/willis-opinion/resultados/js",
+			"/Users/mencey/Dropbox/Sitelicon/opinion_willis/labs/willis-opinion",
+			"/Users/mencey/Dropbox/Sitelicon/opinion_willis/labs2/willis-opinion",
+			"/Users/mencey/Dropbox/Sitelicon/opinion_willis/labs/willis-opinion",
+			"/Users/mencey/Dropbox/Sitelicon/viscoop/labs/willis-opinion",
+			"/Users/mencey/Dropbox/Sitelicon/viscoop/labs",
+			"/Users/mencey/Dropbox/Sitelicon/viscoop/labs/willis-opinion",
+			"/Users/mencey/Dropbox/web/menceymelgar/webkate",
+			"/Users/mencey/Dropbox/web/hoa/kooltool",
+			"/Users/mencey/Dropbox/web/rafa/newweb",
+			"/Users/mencey/Dropbox/web/hoa/kooltool",
+			"/Users/mencey/Dropbox/web/hoa/kooltool/src",
+			"/Users/mencey/Dropbox/web/rafa/newweb/editor"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"statu",
+			"status",
+			"'status'",
+			"status",
+			"Status",
+			"status",
+			"Status",
+			"status",
+			"Status",
+			"status",
+			"1",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"products/?act=migrate_all",
+			"migrate_all",
+			"categories",
+			"' => arra",
+			"' =>",
+			", array(",
+			"array_push(",
+			"d =",
+			"migrate_productos_padre",
+			"migrateParentProduct",
+			"_locations",
+			"customers",
+			"stock",
+			"direct",
+			"start_stock",
+			"start_sto",
+			"start_stock",
+			"start_disable",
+			"AÑAD",
+			"AÑADIR",
+			"btn",
+			"addCarrito",
+			"remove",
+			".carousel",
+			"#carousel-ficha",
+			"magnifier",
+			"Things",
+			"cinner",
+			"carousel-inner",
+			"carousel-ficha",
+			"carousel-ficha'",
+			"script",
+			"max_heigth",
+			"setMaxImgHeight",
+			"Image",
+			"addCarrito(",
+			"addCarrito",
+			"image",
+			"imagen",
+			"pp.referencia LIKE '%$busqueda_ref%'",
+			"LIKE '%$busqueda_ref%'",
+			"productos p",
+			"productos ",
+			"%$busqueda%",
+			"ningun",
+			"MATCH(pp.titulo)AGAINST('$busqueda' IN BOOLEAN MODE)",
+			"Quiero solicitar factura oficial",
+			"MATCH(pp.titulo)AGAINST('$busqueda' IN BOOLEAN MODE) $filtros",
+			"MATCH(pp.titulo)AGAINST('$busqueda' IN BOOLEAN MODE)",
+			"disabl",
+			"disabe",
+			"prop",
+			"total_productos_unidades",
+			"tipos_de_iva",
+			"-",
+			"row_prod",
+			"valores_bimponible",
+			"</h6>",
+			"<h6>",
+			"h5",
+			"migrateTa",
+			"total_base_imponible",
+			"_directo",
+			"compra_directa",
+			"val",
+			"$(this)",
+			"tallas",
+			"menus",
+			"menu",
+			"item",
+			"menu",
+			"id_color",
+			"colors_query",
+			"oducto\"",
+			"sp",
+			".'",
+			"'.",
+			"id_producto_directo",
+			"diferencial_talla",
+			"especial",
+			"precio_producto",
+			"diferencial_talla",
+			"tallas",
+			"rray()",
+			"limit",
+			"h4",
+			"importe_f",
+			"get_albaran_payment",
+			",",
+			"iva",
+			"remove",
+			"migrateMethod",
+			"removeExtraColumn",
+			"migratePaymentMethods",
+			"albaran",
+			"customer_id IS NOT ",
+			"shipping_address",
+			"PaymentMethod",
+			"Factura",
+			"factura",
+			"icon-head head-payment-method",
+			"facturas",
+			"Albaran",
+			"albaran",
+			"albaranes",
+			"albaran",
+			"order",
+			"Albaran",
+			"albaran",
+			"albaranes",
+			"invoice",
+			"migrateInvoice"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 74.0
+	},
+	"pinned_build_system": "",
+	"project": "Sitelicon.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 828.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

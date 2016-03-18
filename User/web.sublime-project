@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/mencey/Sites/web",
+			"file_exclude_patterns":
+			[
+				".phpintel/"
+			]
+		}
+	]
+}

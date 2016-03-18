@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input type="checkbox" name="$1" id="$1" checked />]]></content>
+	<tabTrigger>input:check</tabTrigger>
+	<description>HTML - Input:checkbox</description>
+	<scope>text.html</scope>
+</snippet>

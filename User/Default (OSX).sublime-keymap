@@ -1,0 +1,64 @@
+[
+    { "keys": ["ctrl+ñ"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    // { "keys": ["ctrl+f5"], "command": "next_view_in_stack" },
+    // { "keys": ["ctrl+shift+f5"], "command": "prev_view_in_stack" },
+    // { "keys": ["f5"], "command": "insert_best_completion", "args": {"default": "\t", "exact": true} },
+    // { "keys": ["f5"], "command": "insert_best_completion", "args": {"default": "\t", "exact": false},
+    //     "context":
+    //     [
+    //         { "key": "setting.tab_completion", "operator": "equal", "operand": true }
+    //     ]
+    // },
+    // { "keys": ["f5"], "command": "replace_completion_with_next_completion", "context":
+    //     [
+    //         { "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+    //         { "key": "setting.tab_completion", "operator": "equal", "operand": true }
+    //     ]
+    // },
+    // { "keys": ["f5"], "command": "reindent", "context":
+    //     [
+    //         { "key": "setting.auto_indent", "operator": "equal", "operand": true },
+    //         { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true },
+    //         { "key": "preceding_text", "operator": "regex_match", "operand": "^$", "match_all": true },
+    //         { "key": "following_text", "operator": "regex_match", "operand": "^$", "match_all": true }
+    //     ]
+    // },
+    // { "keys": ["f5"], "command": "indent", "context":
+    //     [
+    //         { "key": "text", "operator": "regex_contains", "operand": "\n" }
+    //     ]
+    // },
+    // { "keys": ["f5"], "command": "next_field", "context":
+    //     [
+    //         { "key": "has_next_field", "operator": "equal", "operand": true }
+    //     ]
+    // },
+    // { "keys": ["f5"], "command": "commit_completion", "context":
+    //     [
+    //         { "key": "auto_complete_visible" },
+    //         { "key": "setting.auto_complete_commit_on_tab" }
+    //     ]
+    // },
+
+    // { "keys": ["shift+f5"], "command": "insert", "args": {"characters": "\t"} },
+    // { "keys": ["shift+f5"], "command": "unindent", "context":
+    //     [
+    //         { "key": "setting.shift_tab_unindent", "operator": "equal", "operand": true }
+    //     ]
+    // },
+    // { "keys": ["shift+f5"], "command": "unindent", "context":
+    //     [
+    //         { "key": "preceding_text", "operator": "regex_match", "operand": "^[\t ]*" }
+    //     ]
+    // },
+    // { "keys": ["shift+f5"], "command": "unindent", "context":
+    //     [
+    //         { "key": "text", "operator": "regex_contains", "operand": "\n" }
+    //     ]
+    // },
+    // { "keys": ["shift+f5"], "command": "prev_field", "context":
+    //     [
+    //         { "key": "has_prev_field", "operator": "equal", "operand": true }
+    //     ]
+    // },
+]

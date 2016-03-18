@@ -1,0 +1,1076 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"u",
+				"unquote	unquote()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"part",
+				"parties_json"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"hotel_da",
+				"hotel_day_html"
+			],
+			[
+				"date_",
+				"date_start"
+			],
+			[
+				"inpu",
+				"input:all	HTML - Input:all"
+			],
+			[
+				"date",
+				"date_end"
+			],
+			[
+				"array",
+				"array	$… = array (…)"
+			],
+			[
+				"seo_",
+				"seo_block_title"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"class",
+				"class=〔attribute〕"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"soci",
+				"social-img"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"togg",
+				"toggleClass〔function〕"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"background-c",
+				"background-color: 〔property〕"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"jso",
+				"json_encode〔function〕"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"p_file_t",
+				"$p_file_types〔variable〕"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"proje",
+				"project_description"
+			],
+			[
+				"main",
+				"main_editor"
+			],
+			[
+				"arra",
+				"array〔keyword〕"
+			],
+			[
+				"project_de",
+				"project_detail"
+			],
+			[
+				"project_deta",
+				"project_detail_label"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"cap",
+				"caption_es"
+			],
+			[
+				"tri",
+				"trigger	.trigger()"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"proj",
+				"project_small"
+			],
+			[
+				"projec",
+				"project_classes"
+			],
+			[
+				"centrum",
+				"centrum-cerny-most-west"
+			],
+			[
+				"ar",
+				"architect"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"po",
+				"po-la"
+			],
+			[
+				"id",
+				"id_categoria"
+			],
+			[
+				"rel",
+				"rel_menus_categorias"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"media_",
+				"$media_path〔variable〕"
+			],
+			[
+				"media",
+				"$media_path〔variable〕"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"row_",
+				"row_videos"
+			],
+			[
+				"allowed_",
+				"allowed_img_ext"
+			],
+			[
+				"thr",
+				"thrownError〔argument〕"
+			],
+			[
+				"chil",
+				"children〔function〕"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"mysql_row",
+				"mysql_num_rows〔function〕"
+			],
+			[
+				"project",
+				"project_id"
+			],
+			[
+				"menu",
+				"menu_categories"
+			],
+			[
+				"action",
+				"$action〔variable〕"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pro",
+				"project_transition〔variable〕"
+			],
+			[
+				"c",
+				"project_cur_translate〔variable〕"
+			],
+			[
+				"hide",
+				"hideProgress"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"cate",
+				"category_click"
+			],
+			[
+				"scr",
+				"scrollTop〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "w",
+		"selected_items":
+		[
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"brows",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"br",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"dias",
+				"Package Control: Disable Package"
+			],
+			[
+				"uplao",
+				"SFTP: Upload File"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"syntax C",
+				"Set Syntax: C"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jquery s",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"jqu s",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"linte",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"key",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"over",
+				"FindKeyConflicts: Overlap Conflicts"
+			],
+			[
+				"keyc",
+				"FindKeyConflicts: Multiple Package Conflicts"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"codein",
+				"SublimeCodeIntel: Dump Import Directories"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"js lin",
+				"JSLint"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"json",
+				"Set Syntax: Bower JSON"
+			],
+			[
+				"syntax jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"csslin",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"asd",
+			"reload",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mencey/Sites/web",
+		"/Users/mencey/Sites/web/menceymelgar",
+		"/Users/mencey/Sites/web/menceymelgar/mencey",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/includes",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/js",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/js/components",
+		"/Users/mencey/Sites/web/po-la",
+		"/Users/mencey/Sites/web/po-la/admin",
+		"/Users/mencey/Sites/web/po-la/admin/js",
+		"/Users/mencey/Sites/web/po-la/js",
+		"/Users/mencey/Sites/web/spotahome",
+		"/Users/mencey/Sites/web/spotahome/app",
+		"/Users/mencey/Sites/web/spotahome/app/css",
+		"/Users/mencey/Sites/web/spotahome/app/jade",
+		"/Users/mencey/Sites/web/spotahome/app/jade/components",
+		"/Users/mencey/Sites/web/spotahome/app/jade/includes",
+		"/Users/mencey/Sites/web/spotahome/app/jade/lib",
+		"/Users/mencey/Sites/web/spotahome/app/js",
+		"/Users/mencey/Sites/web/spotahome/app/js/components",
+		"/Users/mencey/Sites/web/spotahome/app/sass",
+		"/Users/mencey/Sites/web/spotahome/app/sass/components",
+		"/Users/mencey/Sites/web/spotahome/app/sass/lib",
+		"/Users/mencey/Sites/web/spotahome/dist",
+		"/Users/mencey/Sites/web/spotahome/dist/css",
+		"/Users/mencey/Sites/web/spotahome/dist/js"
+	],
+	"file_history":
+	[
+		"/Users/mencey/Sites/web/spotahome/app/jade/components/filters.jade",
+		"/Users/mencey/Sites/web/spotahome/app/jade/components/results.jade",
+		"/Users/mencey/Sites/web/spotahome/app/sass/lib/_tools.scss",
+		"/Users/mencey/Sites/web/spotahome/app/sass/components/_filters.scss",
+		"/Users/mencey/Sites/web/spotahome/app/sass/components/_results.scss",
+		"/Users/mencey/Sites/web/spotahome/dist/js/main.js",
+		"/Users/mencey/Sites/web/spotahome/app/js/components/filters.js",
+		"/Users/mencey/Sites/web/spotahome/gulpfile.js",
+		"/Users/mencey/Sites/web/spotahome/app/sass/lib/_variables.scss",
+		"/Users/mencey/Sites/web/spotahome/app/sass/lib/_mixins.scss",
+		"/Users/mencey/Sites/web/spotahome/app/sass/components/_menu.scss",
+		"/Users/mencey/Sites/web/spotahome/app/sass/components/_logo.scss",
+		"/Users/mencey/Sites/web/spotahome/app/jade/includes/layout.jade",
+		"/Users/mencey/Sites/web/spotahome/app/jade/lib/tools.jade",
+		"/Users/mencey/Sites/web/spotahome/app/js/data.json",
+		"/Users/mencey/Sites/web/spotahome/app/jade/includes/scripts.jade",
+		"/Users/mencey/Sites/web/spotahome/app/sass/main.scss",
+		"/Users/mencey/Sites/web/spotahome/app/jade/index.jade",
+		"/Users/mencey/Sites/web/spotahome/app/sass/lib/_col-grid.scss",
+		"/Users/mencey/Sites/web/spotahome/app/jade/includes/header.jade",
+		"/Users/mencey/Sites/web/spotahome/app/jade/lib/mixins.jade",
+		"/Users/mencey/Sites/web/spotahome/app/jade/components/menu.jade",
+		"/Users/mencey/Sites/web/spotahome/app/jade/components/logo.jade",
+		"/Users/mencey/Sites/web/spotahome/app/sass/components/_header.scss",
+		"/Users/mencey/Sites/web/spotahome/app/jade/includes/head.jade",
+		"/Users/mencey/Sites/web/spotahome/app/jade/lib/variables.jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/lib/tools.jade",
+		"/Users/mencey/Sites/web/spotahome/app/css/vendor/font-awesome.min.css",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/sass/lib/_mixins.scss",
+		"/Users/mencey/Sites/web/spotahome/.gitignore",
+		"/Users/mencey/Sites/web/spotahome/readme.md",
+		"/Users/mencey/Sites/web/spotahome/package.json",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/gulpfile.js",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/sass/lib/_col-grid.scss",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/includes/footer.jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/includes/header.jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/includes/layout.jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/includes/head.jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/components/skills.jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/lib/mixins.jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/sass/lib/_variables.scss",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/index.jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/dist/index.php",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/sass/lib/_fonts.scss",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/lib/variables.jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/jade/includes/scripts.jade",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/sass/main.scss",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/app/sass/lib/_tools.scss",
+		"/Users/mencey/Downloads/Erotismo Ensayo Bueno copia.doc",
+		"/Users/mencey/Downloads/Erotismo Ensayo Bueno copia.txt",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/.htaccess",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/home.php",
+		"/Users/mencey/Sites/web/menceymelgar/mencey/index.php",
+		"/Users/mencey/Sites/web/menceymelgar/pezzi/css/main.css",
+		"/Users/mencey/Sites/web/menceymelgar/pezzi/bea.html",
+		"/Users/mencey/Sites/web/menceymelgar/encuesta/results/src/home.php",
+		"/Users/mencey/Sites/web/chessaken.com/index.php",
+		"/Users/mencey/Sites/web/dLana/css/main.css",
+		"/Users/mencey/Sites/web/dLana/index.php",
+		"/Users/mencey/Sites/web/dLana/lang/en/press.php",
+		"/Users/mencey/Sites/web/dLana/lang/es/press.php",
+		"/Users/mencey/Sites/web/dLana/lang/es/home.php",
+		"/Users/mencey/Sites/web/dLana/lang/en/home.php",
+		"/Users/mencey/Sites/web/dLana/lang/en/contact.php",
+		"/Users/mencey/Sites/web/dLana/lang/en/about-us.php",
+		"/Users/mencey/Sites/web/dLana/lang/en/philosophy.php",
+		"/Users/mencey/Sites/web/dLana/lang/es/about-us.php",
+		"/Users/mencey/Sites/web/dLana/lang/es/philosophy.php",
+		"/Users/mencey/Sites/web/dLana/lang/en/phillosophy.php",
+		"/Users/mencey/Sites/web/dLana/lang/es/variables.php",
+		"/Users/mencey/Sites/web/dLana/lang/es/contact.php",
+		"/Users/mencey/Sites/web/dLana/lang/en/variables.php",
+		"/Users/mencey/Sites/web/dLana/.htaccess",
+		"/Users/mencey/Sites/web/dLana/js/main.js",
+		"/Users/mencey/Sites/web/dLana/lang/en/press",
+		"/Users/mencey/Sites/web/dLana/lib/lang-en.php",
+		"/Users/mencey/Sites/web/dLana/lib/lang-es.php",
+		"/Users/mencey/Sites/web/dLana/index2.php",
+		"/Users/mencey/Downloads/martamoore.sql",
+		"/Users/mencey/Sites/web/martamoore/inc/menu.php",
+		"/Users/mencey/Sites/web/martamoore/index.php",
+		"/Users/mencey/Sites/web/rafa/js/main.js",
+		"/Users/mencey/Sites/web/menceymelgar/pactometro/js/parties.json",
+		"/Users/mencey/Sites/web/menceymelgar/pactometro/index.php",
+		"/Users/mencey/Sites/web/menceymelgar/pactometro/js/main.js",
+		"/Users/mencey/Sites/web/menceymelgar/pactometro/css/main.css",
+		"/Users/mencey/Sites/web/menceymelgar/pactometro/js/jquery-ui.min.js",
+		"/Users/mencey/Sites/web/menceymelgar/pactometro/js/jquery.min.js",
+		"/Users/mencey/Sites/web/groupinghotels/pre/lib/login.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/lib/functions.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/landing.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/ajax/register.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/lib/mysql.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/js/canvas.js",
+		"/Users/mencey/Sites/web/groupinghotels/pre/form.php",
+		"/Users/mencey/Sites/web/menceymelgar/pactometro/css/animate.min.css",
+		"/Users/mencey/Sites/Accenture/bbva/maquetas-zona-publica/bbvaes/package.json",
+		"/Users/mencey/Sites/web/menceymelgar/xtests/blur/.htaccess",
+		"/Users/mencey/Sites/web/dLana/test.php",
+		"/Users/mencey/Sites/web/menceymelgar/xtests/blur/index.php",
+		"/Users/mencey/Sites/web/menceymelgar/xtests/test.html",
+		"/Users/mencey/Sites/web/groupinghotels/pre/.htaccess",
+		"/Users/mencey/Sites/web/groupinghotels/pre/config.json",
+		"/Users/mencey/Sites/web/groupinghotels/pre/js/main.js",
+		"/Users/mencey/Sites/web/groupinghotels/pre/admin/header.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/admin/index.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/css/main.css",
+		"/Users/mencey/Sites/web/groupinghotels/pre/js/landing.js",
+		"/Users/mencey/Sites/web/groupinghotels/pre/ajax/get_hotels_in_range.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/ajax/get_hotel_days.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/js/forms.js",
+		"/Users/mencey/Sites/web/groupinghotels/pre/admin/lib/config.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/lib/config.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/admin/js/login.js",
+		"/Users/mencey/Sites/web/groupinghotels/pre/admin/ajax/landing.php",
+		"/Users/mencey/Desktop/hotel.html",
+		"/Users/mencey/Sites/web/groupinghotels/pre/admin/js/landing.js",
+		"/Users/mencey/Sites/web/groupinghotels/pre/form_old.php",
+		"/Users/mencey/Sites/web/groupinghotels/sftp-config.json",
+		"/Users/mencey/Sites/web/groupinghotels/pre/admin/.htaccess",
+		"/Users/mencey/Sites/web/groupinghotels/pre/admin/landing.php",
+		"/Users/mencey/Sites/web/groupinghotels/index.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/lib/login_check.php",
+		"/Users/mencey/Sites/web/groupinghotels/grouping_hotels.sql",
+		"/Users/mencey/Sites/web/groupinghotels/pre/landing_old.php",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mencey/Sites/web/groupinghotels/pre/footer.php",
+		"/Users/mencey/Sites/web/groupinghotels/pre/header.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/mencey/Sites/web",
+			"/Users/mencey/Sites/web/dLana/shop/img",
+			"/Users/mencey/Sites/web/dLana/shop",
+			"/Users/mencey/Sites/web/dLana",
+			"/Users/mencey/Sites/web/dLana/shop",
+			"/Users/mencey/Sites/web/dLana/shop/themes/default-bootstrap",
+			"/Users/mencey/Sites/web/dLana/shop",
+			"/Users/mencey/Sites/web/groupinghotels/pre/admin/css",
+			"/Users/mencey/Sites/web/dLana/shop",
+			"/Users/mencey/Sites/web/dLana/shop/themes/default-bootstrap",
+			"/Users/mencey/Sites/web/dLana/shop",
+			"/Users/mencey/Sites/web/dLana/pre",
+			"/Users/mencey/Sites/web/dLana/shop",
+			"/Users/mencey/Sites/web/dLana/shop/modules",
+			"/Users/mencey/Sites/web/dLana/shop",
+			"/Users/mencey/Sites/web/dLana/shop/admin/themes",
+			"/Users/mencey/Sites/web/dLana/shop",
+			"/Users/mencey/Dropbox/web/dLana/shop",
+			"/Users/mencey/Dropbox/web/dLana/shop/themes/default-bootstrap/modules",
+			"/Users/mencey/Dropbox/web/dLana/shop",
+			"/Users/mencey/Dropbox/web/dLana/shop/themes/default-bootstrap",
+			"/Users/mencey/Dropbox/web/dLana/shop",
+			"/Users/mencey/Dropbox/web/holubo/devsite/src",
+			"/Users/mencey/Dropbox/web/holubo/devsite",
+			"/Users/mencey/Dropbox/web/holubo/devsite/src",
+			"/Users/mencey/Dropbox/web/holubo/devsite/src/FS/UserBundle/Resources/views/User",
+			"/Users/mencey/Dropbox/web/holubo/devsite/src/FS/UserBundle",
+			"/Users/mencey/Dropbox/web/holubo/devsite/src",
+			"/Users/mencey/Dropbox/web/holubo/devsite/app",
+			"/Users/mencey/Dropbox/web/dLana/blog",
+			"/Users/mencey/Dropbox/web/po-la/admin",
+			"/Users/mencey/Dropbox/web/po-la/admin/css",
+			"/Users/mencey/Dropbox/web/rafa",
+			"/Users/mencey/Dropbox/web/po-la",
+			"/Users/mencey/Dropbox/web/po-la/wp-content",
+			"/Users/mencey/Dropbox/web/po-la",
+			"/Users/mencey/Dropbox/web/menceymelgar/xtests/sitelicon_prueba/willis-opinion",
+			"/Users/mencey/Dropbox/web/menceymelgar/webkate",
+			"/Users/mencey/Dropbox/web/hoa/kooltool",
+			"/Users/mencey/Dropbox/web/rafa/newweb",
+			"/Users/mencey/Dropbox/web/hoa/kooltool",
+			"/Users/mencey/Dropbox/web/hoa/kooltool/src",
+			"/Users/mencey/Dropbox/web/rafa/newweb/editor"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vendor",
+			"console",
+			"z-i",
+			".col-sm-12",
+			"%c",
+			".col-sm-12.",
+			"md",
+			"opaci",
+			"green",
+			"20",
+			".results",
+			"results",
+			"childre",
+			"bstts",
+			"astts",
+			"<",
+			">",
+			"sid",
+			"data(",
+			"ata(pri",
+			"price",
+			".dataset",
+			"dataset",
+			"sid",
+			"clist",
+			"type",
+			"getAllRooms",
+			"setUpRooms",
+			"all",
+			"All",
+			"all",
+			"val",
+			"class",
+			"type",
+			"-by-type",
+			"data",
+			"\"",
+			"old",
+			"\"",
+			"ajax",
+			"lg",
+			"jade",
+			".",
+			"$",
+			"phpJade",
+			"Path",
+			"../fonts/",
+			"d",
+			"$",
+			"/*",
+			"-align-flo",
+			"└── ",
+			"        ",
+			"    ",
+			"*",
+			"uglify",
+			"sourcemaps",
+			"\n    \"gulp-sourcemaps\": \"^1.6.0\",",
+			"notify",
+			"changed",
+			"                ",
+			"i",
+			"jade",
+			" .g-",
+			"g-",
+			"px",
+			"ckedi",
+			"Path",
+			"jsPath",
+			"../includes/",
+			"$g",
+			"%g",
+			"-v2",
+			"html",
+			".html",
+			"home",
+			"base",
+			"\" id=\"<?ph",
+			"?>\" id=\"",
+			"philosophy",
+			"&l=es",
+			"es/",
+			"es",
+			"p=",
+			"^",
+			"p",
+			"we",
+			"transform",
+			"main-r",
+			"delay",
+			"delat",
+			"main-right-img",
+			"social-ico",
+			"<img class=\"social-img\"",
+			"social",
+			"../font",
+			"../",
+			"mult/BBVA_Icon",
+			"BBVAIcon",
+			"each",
+			"index2",
+			"sec-active",
+			"xs-12 col-sm-6",
+			"l-xs-12 col-sm-10 col-md-",
+			"tent sec",
+			"index.php",
+			"contacto",
+			"prensa",
+			"es",
+			"nosotros",
+			"prensa",
+			"contacto",
+			"nosotros",
+			"all",
+			"line",
+			"li",
+			"body",
+			"home-bg",
+			"black",
+			"onYouTubeIframeAPIReady",
+			"onPlayerReady",
+			"weeding",
+			"gallery",
+			"flowers",
+			"jewel",
+			"jewels",
+			"ga",
+			"all"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 106.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

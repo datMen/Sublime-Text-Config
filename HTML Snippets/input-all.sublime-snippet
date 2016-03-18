@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<input type="${2:text}" name="$1" id="$1" value="$3" max="$4" min="$5" placeholder="$6" autocomplete="on" required autofocus checked disabled />]]></content>
+    <tabTrigger>input:all</tabTrigger>
+    <description>HTML - Input:all</description>
+    <scope>text.html</scope>
+</snippet>

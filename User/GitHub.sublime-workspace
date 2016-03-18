@@ -1,0 +1,790 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"board",
+				"board_sides"
+			],
+			[
+				"Game",
+				"GameObject"
+			],
+			[
+				"Move",
+				"MoveType"
+			],
+			[
+				"piece",
+				"piece_name"
+			],
+			[
+				"pice",
+				"piece_name"
+			],
+			[
+				"coo",
+				"coor_move"
+			],
+			[
+				"cas",
+				"castling_squares"
+			],
+			[
+				"cast",
+				"castling_towers"
+			],
+			[
+				"coor",
+				"coor_move"
+			],
+			[
+				"GetC",
+				"GetComponent	type"
+			],
+			[
+				"allowe",
+				"addAllowedMove"
+			],
+			[
+				"break",
+				"break_directions"
+			],
+			[
+				"brea",
+				"break_directions"
+			],
+			[
+				"getS",
+				"getSquareFromCoordinate"
+			],
+			[
+				"square",
+				"square_move"
+			],
+			[
+				"hold",
+				"holding_piece"
+			],
+			[
+				"waypo",
+				"waypoint_actual"
+			],
+			[
+				"NavMesh",
+				"NavMeshAgent"
+			],
+			[
+				"OnCollis",
+				"OnCollisionEnter	collision"
+			],
+			[
+				"squar",
+				"square_hover_mat"
+			],
+			[
+				"Vecto",
+				"Vector3	x, y, z"
+			],
+			[
+				"Mono",
+				"MonoBehaviour"
+			],
+			[
+				"Vec",
+				"Vector3	x, y, z"
+			],
+			[
+				"health",
+				"health_label"
+			],
+			[
+				"heal",
+				"health_bar"
+			],
+			[
+				"da",
+				"damage_percent"
+			],
+			[
+				"healt",
+				"health_bar"
+			],
+			[
+				"Serial",
+				"SerializeField"
+			],
+			[
+				"OntR",
+				"OnTriggerEnter	other"
+			],
+			[
+				"onTri",
+				"Collider.OnTriggerEnter(?)"
+			],
+			[
+				"DeltaTime",
+				"Touch.deltaTime"
+			],
+			[
+				"Ont",
+				"OnTriggerEnter	other"
+			],
+			[
+				"Vect",
+				"Vector3	x, y, z"
+			],
+			[
+				"log",
+				"Debug.Log(message)"
+			],
+			[
+				"EnemyStat",
+				"EnemyStateId"
+			],
+			[
+				"scr",
+				"scrollTop〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "w",
+		"selected_items":
+		[
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"unit",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"uni",
+				"Unity3D Reference: Search script reference."
+			],
+			[
+				"yni",
+				"Snippet: propertyName, matrix"
+			],
+			[
+				"unity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"syntax C",
+				"Set Syntax: C"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"jquery s",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"jqu s",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"linte",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"key",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"over",
+				"FindKeyConflicts: Overlap Conflicts"
+			],
+			[
+				"keyc",
+				"FindKeyConflicts: Multiple Package Conflicts"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"codein",
+				"SublimeCodeIntel: Dump Import Directories"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"js lin",
+				"JSLint"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"json",
+				"Set Syntax: Bower JSON"
+			],
+			[
+				"syntax jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"csslin",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 660.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"asd",
+			"reload",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mencey/Documents/GitHub",
+		"/Users/mencey/Documents/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados",
+		"/Users/mencey/Documents/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets",
+		"/Users/mencey/Desktop/examenFinal_PMDM"
+	],
+	"file_history":
+	[
+		"/Users/mencey/Documents/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/controllers/AttackMeleeState.cs",
+		"/Users/mencey/Documents/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/states/Context.cs",
+		"/Users/mencey/Documents/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/EnemyStateManager.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Classes/Board.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Classes/Square.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/UI/MainCamera.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/README.md",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/UI/DragAndDrop.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Classes/Piece.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Classes/MoveType.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Classes/Move.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Classes/Coordinate.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Classes/Theme.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/UI/Menu.cs",
+		"/Users/mencey/Documents/GitHub/ScapeRoom-Unity/EntregaAscensor/Assets/Scripts/Camera_inteligence.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Classes/Game.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/UI/RotateAroundObj.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/UI/RotateAround.cs",
+		"/Users/mencey/Desktop/examenFinal_PMDM/Assets/Scripts/Rocket.cs",
+		"/Users/mencey/Desktop/examenFinal_PMDM/Assets/Scripts/EnemigoAgent.cs",
+		"/Users/mencey/Desktop/examenFinal_PMDM/Assets/Prefabs/GUI/Scripts/BarraVida.cs",
+		"/Users/mencey/Desktop/examenFinal_PMDM/Assets/Prefabs/GUI/Scripts/PlayerVida.cs",
+		"/Users/mencey/Documents/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/controllers/PatrolState.cs",
+		"/Users/mencey/Desktop/examenFinal_PMDM/Assets/Scripts/Enemigo.cs",
+		"/Users/mencey/Desktop/examenFinal_PMDM/Assets/Scripts/NavMeshAgent.cs",
+		"/Volumes/Transcend/ChristianBueno/Christian/T03_Examen_trim2b_alumnos/Assets/Scripts/DoorScript.cs",
+		"/Volumes/Transcend/ChristianBueno/Christian/T03_Examen_trim2b_alumnos/Assets/Scripts/Inventario.cs",
+		"/Volumes/Transcend/ChristianBueno/Christian/T03_Examen_trim2b_alumnos/Assets/Scripts/KeyScript.cs",
+		"/Volumes/Transcend/ChristianBueno/Christian/T03_Examen_trim2b_alumnos/Assets/Scripts/Vista.cs",
+		"/Volumes/Transcend/ChristianBueno/Christian/T03_Examen_trim2b_alumnos/Assets/Scripts/Oido.cs",
+		"/Volumes/Transcend/ChristianBueno/Christian/T03_Examen_trim2b_alumnos/Assets/Scripts/KeyScript.cs.meta",
+		"/Volumes/My Passport/DAMP_2/SGEM/Examen/ej_1/ej_1.py",
+		"/Users/mencey/Documents/GitHub/Chessaken/.gitignore",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Piece/Piece.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Piece/Controllers/StandStill.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Piece/Controllers/Moving.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Piece/States/PieceContext.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Piece/States/PieceStateId.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Piece/States/PieceState.cs",
+		"/Users/mencey/Documents/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/states/EnemyStateId.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Square.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Piece.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/DragAndDrop.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Coordinate.cs",
+		"/Users/mencey/Documents/GitHub/Chessaken/.gitattributes",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/GitHub.sublime-project",
+		"/Users/mencey/Dropbox/DNIN/NetBeans/Melgar_Ex2T_Ej2/src/java/beans/OperationsEJB.java",
+		"/Users/mencey/Dropbox/GitHub/BotMapsUrT/botmapsurt.py",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/controllers/AttackRangedState.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/Health.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/Bullet.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/controllers/DetectedState.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/controllers/PatrolState.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/states/Context.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/states/EnemyState.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/states/EnemyStateId.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/EnemyStateManager.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/controllers/AttackMeleeState.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/controllers/AttackMeleeHitState.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/controllers/AttackState.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/triggers/AttackTrigger.cs",
+		"/Users/mencey/Dropbox/PMDM/MaquinaEstadosOscar/Assets/Scripts/ElevatorFSM/IFSMContext.cs",
+		"/Users/mencey/Dropbox/PMDM/MaquinaEstadosOscar/Assets/Scripts/ElevatorFSM/ElevatorStateId.cs",
+		"/Users/mencey/Dropbox/PMDM/MaquinaEstadosOscar/Assets/Scripts/ElevatorFSM/State.cs",
+		"/Users/mencey/Dropbox/PMDM/MaquinaEstadosOscar/Assets/Scripts/ElevatorFSM/ElevatorStateManager.cs",
+		"/Users/mencey/Dropbox/PMDM/MaquinaEstadosOscar/Assets/Scripts/Senses/Sight.cs",
+		"/Users/mencey/Dropbox/pmdm/T02_02_LluviaTrigger_yHUDhealth/Assets/Scripts/CreadorChuzos.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/triggers/DetectTrigger.cs",
+		"/Users/mencey/Dropbox/pmdm/Ejemplos/T_01/Ejem_T01_01/Assets/scripts/CreadorChuzos.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/triggers/PatrolTrigger.cs",
+		"/Users/mencey/Dropbox/PMDM/MaquinaEstadosOscar/Assets/Scripts/ElevatorFSM/triggers/DownTrigger.cs",
+		"/Users/mencey/Dropbox/PMDM/MaquinaEstadosOscar/Assets/Scripts/ElevatorFSM/DownState.cs",
+		"/Users/mencey/Dropbox/GitHub/ScapeRoom-Unity/EntregaMaquinaEstados/Assets/Scripts/EnemyStateManager/EnemyState.cs",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/web.sublime-project",
+		"/Users/mencey/Dropbox/web/rafa/newweb/js/main.js",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/README.rst",
+		"/Users/mencey/Dropbox/web/rafa/js/menus.js",
+		"/Users/mencey/Dropbox/web/rafa/newweb/index.php",
+		"/Users/mencey/.codeintel/codeintel.log",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/ApplySyntax.sublime-settings",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/var/folders/sv/m5lhl6pj2tx1vfdt16z7mw3c0000gn/T/sublime-sftp-browse-1425143853/srv/var/urt/guns42/players.dat",
+		"/Users/mencey/Library/Application Support/quake3/q3ut4/autoexec.cfg",
+		"/Users/mencey/Dropbox/web/rafa/newweb/css/main.css",
+		"/Users/mencey/Dropbox/web/rafa/newweb/js/loadmore.js",
+		"/Users/mencey/Dropbox/web/DAMP/SGEM/ej_modulos/ejercicio_2.py",
+		"/Users/mencey/Dropbox/web/DAMP/SGEM/ej_POO/ej1.py",
+		"/Users/mencey/Dropbox/prog/wsclass/Ejercicio_1/src/JFrame1.java",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/mencey/Dropbox/web/rafa/css/style.css",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/CSS/CSS.tmLanguage",
+		"/Users/mencey/Dropbox/web/rafa/js/loadmore.js",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Local/Auto Save Session.sublime_session",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Local/Session.sublime_session",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.py",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/ApplySyntax/ApplySyntax.sublime-settings",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/Better JavaScript/JavaScript Indent.tmPreferences",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/Better JavaScript/Completion Rules.tmPreferences",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Installed Packages/Better JavaScript.sublime-package",
+		"/Users/mencey/Dropbox/web/martamoore/css/style.css",
+		"/Users/mencey/Dropbox/web/martamoore/bio.php",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/Theme - Soda/Soda Dark 3.sublime-theme",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/Theme - Soda/Soda Dark/Widget - Soda Dark 3.sublime-settings",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mencey/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/mencey/Dropbox/web/menceymelgar/index.php",
+		"/Users/mencey/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts",
+			"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts/Classes",
+			"/Users/mencey/Documents/GitHub/Chessaken/Assets/Scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"timer",
+			"timer\n",
+			"timer",
+			"use",
+			"i",
+			"j",
+			"transform",
+			"pieces[i].transform",
+			"setUpBoardTemplate",
+			"i",
+			"square",
+			"squares",
+			"side",
+			"Theme",
+			";",
+			"public Material ",
+			"public",
+			"_mat",
+			"## ",
+			"# ",
+			"use_hover",
+			"addTowerAllowedMoves",
+			"of",
+			"is_valid",
+			"valid_move",
+			"isCheckMate",
+			"getCoordinateMove",
+			"castling_tower",
+			"move_type",
+			"canInterceptCheckKing",
+			"getSquareCoordinate",
+			"closest_square",
+			"GetComponent<Piece>()",
+			"setMaterial",
+			"isCheckMate",
+			"i",
+			"this",
+			"square",
+			"cur_square",
+			"cur_squares[i]",
+			"square.",
+			"Square",
+			"square",
+			"team",
+			"board.",
+			"piece",
+			"reset",
+			"resetMaterial",
+			"unHoverSquare",
+			"resetHoveredSquares",
+			"hovered_squares",
+			"x",
+			"checkValidCheckKingMove",
+			"checking_piece",
+			"0",
+			"* team",
+			"team",
+			"-1",
+			"pieces",
+			"cur_square",
+			"isCheckKing",
+			"checking_piece",
+			"checkValidMove",
+			"piece",
+			"piece.",
+			"squares[i]",
+			"null",
+			"addPieceBreakPoints",
+			"addPiece",
+			"addPieceBreakPoints(piece);",
+			"].",
+			"squares[i]",
+			"this_piece",
+			"coor_move",
+			"break_points",
+			"setStartPiecesCoor",
+			"checkBreakPoint",
+			"log",
+			"hovered_squares",
+			"resetHoveredSquares",
+			"transform.position, ",
+			"unHo",
+			"log",
+			"turn",
+			"hover_mat",
+			"checkCastling",
+			"i",
+			"j",
+			"i",
+			" square1.coor.x",
+			"check",
+			"board",
+			"movePiece",
+			"checkValidMove",
+			"checkCastling",
+			"castleTower",
+			"sudoMove",
+			"ove);",
+			"coor",
+			"square.",
+			"getBoardCoordinate",
+			"sudoMovePiece",
+			"castling_tower",
+			"checkCastling",
+			"King",
+			"checkCastling",
+			"false",
+			"MoveType.Castling",
+			"Castling",
+			"castling_move",
+			"StartOnly",
+			"addBishopAllowedMoves",
+			"addTowerAllowedMoves",
+			"movePiece",
+			"transform",
+			"chessaken",
+			"game",
+			"board",
+			"camera",
+			"square.holding_piece",
+			"breack_points",
+			"direct",
+			"checkMoveDirection",
+			"break_directions",
+			"checkTowerMoveDirection",
+			">",
+			"checkTowerMoveDirection2",
+			"> "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "GitHub.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input type="tel" name="$1" id="$1" />]]></content>
+	<tabTrigger>input:tel</tabTrigger>
+	<description>HTML - Input:tel</description>
+	<scope>text.html</scope>
+</snippet>
